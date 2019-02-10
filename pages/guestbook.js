@@ -1,7 +1,5 @@
 import Fetch from "isomorphic-unfetch";
-
 import Layout from "../components/Layout";
-
 
 const MessageResults = ({ index, result }) =>
    <ol>
