@@ -1,0 +1,39 @@
+{
+  "name": "nextjs-challenge",
+  "version": "1.0.1",
+  "description": "A basic boilerplate for nextjs challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "standard fix",
+    "dev": "NODE_ENV=development npm start",
+    "build": "next build",
+    "start": "node ./server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remedyhealth/nextjs-challenge-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/remedyhealth/nextjs-challenge-boilerplate/issues"
+  },
+  "homepage": "https://github.com/remedyhealth/nextjs-challenge-boilerplate#readme",
+  "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.2.1",
+    "express": "^4.16.4",
+    "isomorphic-unfetch": "^3.0.0",
+    "axios": "^0.18.0",
+    "next": "^7.0.2",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1",
+    "eslint": "^5.12.1",
+    "eslint-config-standard": "^12.0.0",
+    "eslint-plugin-react": "^7.12.4"
+  }
+}
