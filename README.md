@@ -2,15 +2,17 @@
 
 ### Todo
 
-- [ ] figure out what nextjs does?
-- [ ] Show form index page
-- [ ] `/api/guestbook`
-- [ ] pages guestbook/ home views
-- [ ] navigation
-- [ ] bootstrap (bonus)
-- [ ] Code linting (bonus)
+- [x] figure out what nextjs does?
+- [x] Show form index page
+- [x] `/api/guestbook`
+- [x] fetch
+- [x] pages guestbook/ home views
+- [x] fetchmessage
+- [x] navigation
+- [x] bootstrap (bonus)
+- [x] Code linting (bonus)
 - [ ] resets with a success message
-- [ ] Form/show an error
+- [x] Form/show an error
 - [ ] Unit tests (bonus)
 
 
