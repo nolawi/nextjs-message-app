@@ -1,4 +1,21 @@
-# nextjs-challenge-boilerplate
+# NextJS message app
+
+### Todo
+
+- [ ] figure out what nextjs does?
+- [ ] Show form index page
+- [ ] `/api/guestbook`
+- [ ] pages guestbook/ home views
+- [ ] navigation
+- [ ] bootstrap (bonus)
+- [ ] Code linting (bonus)
+- [ ] resets with a success message
+- [ ] Form/show an error
+- [ ] Unit tests (bonus)
+
+
+
+
 A basic boilerplate for nextjs challenge
 
 You are responsible for writing a node app using nextjs. Your app will consist of two pages (a form, and a feed), and a server that reads and writes to the feed.
