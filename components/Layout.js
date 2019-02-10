@@ -7,7 +7,6 @@ const Layout = (props) => (
 	<div>
 	<Head>
 		<title> Message App </title>
-
 	</Head>
 		<div className="container">
 			<Navbar />
