@@ -1,5 +1,24 @@
 # NextJS message app
 
+## Getting Started
+
+To get started, simply clone the repository and run `npm install`
+
+```
+# Clone the repo
+git clone https://github.com/nolawi/nextjs-message-app.git
+
+# Move into the new directory
+cd nextjs-message-app/
+
+# Install npm packages
+npm install
+
+# Start up the next.js dev server, browse to http://localhost:3000/
+npm start
+```
+
+
 ### Todo
 
 - [x] figure out what nextjs does?
@@ -11,8 +30,8 @@
 - [x] navigation
 - [x] bootstrap (bonus)
 - [x] Code linting (bonus)
-- [ ] resets with a success message
-- [x] Form/show an error
+- [x] resets with a success message
+- [ ] Form/show an error
 - [ ] Unit tests (bonus)
 
 
